@@ -14,6 +14,7 @@ Para organizar los volúmenes persistentes, se creó la siguiente estructura en 
       config/
       data/
       log/
+```
 
 Cada carpeta de Node-RED almacena:
 
