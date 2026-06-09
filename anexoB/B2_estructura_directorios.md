@@ -22,3 +22,9 @@ Cada carpeta de Node-RED almacena:
 - **nodos instalados,
 - **credenciales,
 - **configuración del runtime.
+
+- Sistema operativo ligero y actualizado.
+- Conectividad Ethernet y Wi-Fi habilitadas.
+- Docker instalado como motor de contenedores.
+- Portainer para la gestión visual de servicios.
+- Acceso remoto mediante SSH.
