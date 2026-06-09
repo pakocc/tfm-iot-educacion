@@ -17,7 +17,7 @@ Para organizar los volúmenes persistentes, se creó la siguiente estructura en 
 
 Cada carpeta de Node-RED almacena:
 
-- ** flujos creados por el usuario,
-- ** nodos instalados,
-- ** credenciales,
-- ** configuración del runtime.
+- **flujos creados por el usuario,
+- **nodos instalados,
+- **credenciales,
+- **configuración del runtime.
