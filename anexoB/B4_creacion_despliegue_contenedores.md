@@ -9,5 +9,5 @@ docker compose up -d
 Comandos útiles para la gestión:
 
 - Ver contenedores activos: ```bash docker ps ```
-- Reiniciar un contenedor
-- Ver logs
+- Reiniciar un contenedor: ```bash docker restart nodered_alumno1 ```
+- Ver logs: ```bash docker logs mosquitto ```
