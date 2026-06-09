@@ -1,0 +1,5 @@
+# Anexo A. Instalación del entorno base en Raspberry Pi
+
+Este anexo describe el procedimiento completo de instalación y configuración inicial de la Raspberry Pi utilizada como servidor central de la infraestructura IoT. Se detallan los pasos necesarios para preparar el sistema operativo, habilitar el acceso remoto, instalar Docker y Portainer, y configurar la conectividad de red. 
+
+La finalidad de este anexo es garantizar la reproducibilidad del entorno base, permitiendo que otros docentes o administradores puedan replicar la infraestructura en distintos contextos educativos.
