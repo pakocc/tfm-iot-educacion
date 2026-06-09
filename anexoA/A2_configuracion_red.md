@@ -9,6 +9,7 @@ Para comprobarla:
 
 ```bash
 ip a
+```
 
 ## A.2.2. Configuración de IP estática (opcional)
 
