@@ -1,4 +1,4 @@
-** B.2. Estructura de directorios
+# B.2. Estructura de directorios
 
 Para organizar los volúmenes persistentes, se creó la siguiente estructura en la Raspberry Pi:
 
