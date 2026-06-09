@@ -1,0 +1,16 @@
+A.1. Preparación del sistema operativo.
+
+Para la implementación se utilizó una Raspberry Pi 4 Model B con 4 GB de RAM. El sistema operativo instalado fue \textit{Raspberry Pi OS Lite (64-bit)}, seleccionado por su ligereza y estabilidad.
+
+\begin{enumerate}
+    \item Descargar la imagen desde la página oficial: \path{https://www.raspberrypi.com/software/}.
+    \item Grabar la imagen en una tarjeta microSD utilizando Raspberry Pi Imager.
+    \item Antes de iniciar el sistema por primera vez, habilitar SSH creando un archivo vacío llamado \texttt{ssh} en la partición \texttt{boot}.
+    \item Insertar la tarjeta en la Raspberry Pi y encender el dispositivo.
+\end{enumerate}
+
+Tras el arranque inicial, se recomienda actualizar el sistema:
+
+\begin{verbatim}
+sudo apt update && sudo apt upgrade -y
+\end{verbatim}
