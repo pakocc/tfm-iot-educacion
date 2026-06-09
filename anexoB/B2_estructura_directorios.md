@@ -18,13 +18,7 @@ Para organizar los volúmenes persistentes, se creó la siguiente estructura en 
 
 Cada carpeta de Node-RED almacena:
 
-- **flujos creados por el usuario,
-- **nodos instalados,
-- **credenciales,
-- **configuración del runtime.
-
-- Sistema operativo ligero y actualizado.
-- Conectividad Ethernet y Wi-Fi habilitadas.
-- Docker instalado como motor de contenedores.
-- Portainer para la gestión visual de servicios.
-- Acceso remoto mediante SSH.
+- **flujos creados por el usuario,**
+- **nodos instalados,**
+- **credenciales,**
+- **configuración del runtime.**
