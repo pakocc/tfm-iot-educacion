@@ -8,6 +8,6 @@ La comunicación con el servidor se realiza mediante **[MQTT](ca://s?q=Protocolo
 - **[control remoto de actuadores](ca://s?q=Control_remoto_actuadores)**,
 - **[generación de alertas](ca://s?q=Alertas_NodeRED)**.
 
-![Arquitectura general del sistema domótico](ImagenAnexoG_ArquitecturaNodeMCU.png)
+![Arquitectura general del sistema domótico](img/AnexoG1_ArquitecturaNodeMCU.png)
 
 *Figura: Arquitectura general del sistema domótico basado en NodeMCU, MQTT y Node‑RED (elaboración propia con asistencia de IA).*
