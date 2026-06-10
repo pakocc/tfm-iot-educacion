@@ -1,0 +1,5 @@
+# Anexo G. Implementación del sistema domótico con NodeMCU, MQTT y Node‑RED
+
+Este anexo describe la implementación completa del sistema domótico desarrollado como parte del Trabajo Fin de Máster. El objetivo es documentar de forma detallada la integración de **[sensores](ca://s?q=Sensores_IoT)**, **[actuadores](ca://s?q=Actuadores_IoT)**, **[comunicaciones MQTT](ca://s?q=Comunicaciones_MQTT)** y **[lógica de supervisión mediante Node‑RED](ca://s?q=Supervision_NodeRED)**, de modo que cualquier lector pueda reproducir el sistema en un entorno educativo o experimental.
+
+El sistema se basa en una **[placa NodeMCU (ESP8266)](ca://s?q=NodeMCU_ESP8266)** conectada a una serie de sensores y actuadores que permiten monitorizar el estado de la vivienda y actuar sobre elementos físicos como puertas y señalización luminosa. La comunicación entre dispositivos se realiza mediante el protocolo **[MQTT](ca://s?q=Protocolo_MQTT)**, utilizando un **[broker Mosquitto](ca://s?q=Broker_Mosquitto)** desplegado en la infraestructura del aula. La supervisión, visualización y envío de alertas se lleva a cabo mediante **[Node‑RED](ca://s?q=NodeRED_IoT)**.
