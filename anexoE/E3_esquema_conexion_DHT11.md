@@ -9,3 +9,7 @@ El sensor DHT11 se conectó a la placa NodeMCU de la siguiente forma:
 | DATA                               | D4 (GPIO2)                               |
 
 Se recomienda utilizar una resistencia de 10 kΩ entre VCC y DATA para mejorar la estabilidad de la señal, salvo que el módulo del sensor utilizado ya incorpore esta resistencia.
+
+![Esquema de conexión DHT11](img/E3_DHT11_NodeMCU.png)
+
+*Imagen generada con ayuda de IA.*
