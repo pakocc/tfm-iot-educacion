@@ -6,7 +6,7 @@ El sensor DHT11 se conectó a la placa NodeMCU de la siguiente forma:
 |------------------------------------|------------------------------------------|
 | VCC                                | 3V3                                      |
 | GND                                | GND                                      |
-| DATA                               | D4 (GPIO2)                               |
+| DATA                               | D1 (GPIO5)                               |
 
 Se recomienda utilizar una resistencia de 10 kΩ entre DATA y GND para mejorar la estabilidad de la señal, salvo que el módulo del sensor utilizado ya incorpore esta resistencia.
 
