@@ -10,3 +10,7 @@ El LED se conectó a la placa NodeMCU de la siguiente forma:
 ¹ *Si el módulo del actuador LED ya incorpora una resistencia de protección, no es necesario añadir esta resistencia externamente.*
 
 Este actuador permite realizar actividades de control remoto mediante MQTT.
+
+![Esquema de conexión de un led](img/anexoE3-esquemaConexionLed.png)
+
+*Imagen generada con ayuda de IA.*
