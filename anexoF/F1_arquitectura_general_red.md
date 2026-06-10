@@ -13,3 +13,7 @@ La Raspberry Pi actúa como servidor central de la infraestructura, alojando:
 - **[Portainer para la gestión de contenedores](ca://s?q=Portainer_gestion_contenedores)**.
 
 Este diseño permite una administración eficiente, un acceso seguro y una experiencia fluida para el alumnado en actividades IoT.
+
+![Esquema de arquitectura general de red](img/anexoF1-arquitectura.png)
+
+*Imagen generada con ayuda de IA.*
