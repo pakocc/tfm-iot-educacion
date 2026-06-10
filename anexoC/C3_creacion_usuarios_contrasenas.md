@@ -9,4 +9,4 @@ mosquitto_passwd /home/pi/iot/mosquitto/config/passwd alumno2
 mosquitto_passwd /home/pi/iot/mosquitto/config/passwd alumno3
 ```
 
-El archivo __passwd__ queda almacenado en formato cifrado.
+El archivo _passwd_ queda almacenado en formato cifrado.
