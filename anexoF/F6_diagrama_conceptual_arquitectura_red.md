@@ -7,6 +7,6 @@ El siguiente diagrama resume la arquitectura híbrida utilizada, integrando:
 - **[acceso remoto seguro a través de Tailscale](ca://s?q=Acceso_remoto_Tailscale)**,
 - **[servicios desplegados en la Raspberry Pi](ca://s?q=Servicios_RaspberryPi_IoT)**.
 
-![Esquema conceptual de la arquitectura de red](anexoF6-ArquitecturaIoT.png)
+![Esquema conceptual de la arquitectura de red](img/anexoF6-DiagramaRedIoT.png)
 
 *Figura: Esquema conceptual de la arquitectura de red (elaboración propia con asistencia de IA).*
