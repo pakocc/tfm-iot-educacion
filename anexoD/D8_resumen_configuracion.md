@@ -1,4 +1,4 @@
-# D.7. Resumen de la configuración
+# D.8. Resumen de la configuración
 
 La configuración de Node-RED permite:
 
