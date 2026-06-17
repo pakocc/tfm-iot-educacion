@@ -1,0 +1,55 @@
+# F.7. — Habilitación de acceso a Internet en la red aislada TFM‑IoT‑AP
+
+Este anexo documenta la configuración realizada en la Raspberry Pi para permitir que los equipos del alumnado, conectados al punto de acceso *TFM‑IoT‑AP*, puedan acceder simultáneamente a los servicios locales (Node‑RED, Mosquitto, Portainer) y a Internet. Esta funcionalidad facilita el trabajo en las prácticas, ya que permite consultar documentación técnica, buscar ejemplos o descargar recursos externos sin abandonar la red aislada del aula.
+
+## 1. Activación del reenvío IP (IP forwarding)
+
+Archivo creado:
+
+```bash
+/etc/sysctl.d/99-ipforward.conf
+```
+
+
+Contenido:
+
+```bash
+net.ipv4.ip_forward=1
+```
+
+Aplicación de la configuración:
+
+```bash
+sudo sysctl --system
+```
+
+Verificación:
+```bash
+cat /proc/sys/net/ipv4/ip_forward
+```
+
+Reglas aplicadas:
+```bash
+sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+sudo iptables -A FORWARD -i wlan0 -o eth0 -j ACCEPT
+sudo iptables -A FORWARD -i eth0 -o wlan0 -m state --state RELATED,ESTABLISHED -j ACCEPT
+```
+
+Guardado persistente:
+```bash
+sudo sh -c "iptables-save > /etc/iptables.ipv4.nat"
+```
+
+Carga automática al arrancar:
+
+Archivo editado:
+```bash
+/etc/rc.local
+```
+
+Contenido:
+```bash
+#!/bin/sh -e
+iptables-restore < /etc/iptables.ipv4.nat
+exit 0
+```
