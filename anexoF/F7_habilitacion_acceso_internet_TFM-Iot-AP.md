@@ -4,7 +4,7 @@ Este anexo documenta la configuración realizada en la Raspberry Pi para permiti
 
 ## Activación del reenvío IP (IP forwarding)
 
-Archivo creado */etc/sysctl.d/99-ipforward.conf* con el siguiente contenido:
+Archivo creado **/etc/sysctl.d/99-ipforward.conf** con el siguiente contenido:
 
 ```bash
 net.ipv4.ip_forward=1
