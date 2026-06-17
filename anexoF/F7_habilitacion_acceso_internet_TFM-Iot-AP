@@ -10,7 +10,6 @@ Archivo creado:
 /etc/sysctl.d/99-ipforward.conf
 ```
 
-
 Contenido:
 
 ```bash
