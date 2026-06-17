@@ -70,3 +70,7 @@ Mediante el aplicación terminal:
 ```bash
 ping 8.8.8.8
 ```
+
+![Esquema conceptual de la arquitectura de red](img/anexoF7-esquema-internet-TFM-IoT-AP.png)
+
+*Figura: Esquema conceptual de la arquitectura de red para la habilitación del internet a través de el punto de acceso TFM-IoT-AP (elaboración propia con asistencia de IA).*
