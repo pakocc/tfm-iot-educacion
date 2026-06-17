@@ -2,7 +2,7 @@
 
 Este anexo documenta la configuración realizada en la Raspberry Pi para permitir que los equipos del alumnado, conectados al punto de acceso *TFM‑IoT‑AP*, puedan acceder simultáneamente a los servicios locales (Node‑RED, Mosquitto, Portainer) y a Internet. Esta funcionalidad facilita el trabajo en las prácticas, ya que permite consultar documentación técnica, buscar ejemplos o descargar recursos externos sin abandonar la red aislada del aula.
 
-## 1. Activación del reenvío IP (IP forwarding)
+## Activación del reenvío IP (IP forwarding)
 
 Archivo creado:
 
