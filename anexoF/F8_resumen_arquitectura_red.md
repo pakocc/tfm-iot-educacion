@@ -1,4 +1,4 @@
-# F.7. Resumen de la arquitectura de red
+# F.8. Resumen de la arquitectura de red
 
 La arquitectura híbrida implementada permite:
 
