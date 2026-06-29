@@ -28,12 +28,14 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 ---
 
 ## 📁 Anexo C — Infraestructura Docker
-- [C0 — Introducción](AnexoC/C0_introduccion.md)
-- [C1 — Contenedores del sistema](AnexoC/C1_contenedores.md)
-- [C2 — Configuración de Mosquitto](AnexoC/C2_mosquitto.md)
-- [C3 — Configuración de Node-RED](AnexoC/C3_nodered.md)
-- [C4 — Gestión con Portainer](AnexoC/C4_portainer.md)
-- [C5 — Espacios de trabajo por usuario](AnexoC/C5_espacios_usuario.md)
+- [C0 — Introducción](anexoC/C0_introduccion.md)
+- [C1 — Estructura de directorios en Mosquitto](anexoC/C1_estructura_directorios_mosquitto.md)
+- [C2 — Configuración de Mosquitto](anexoC/C2_mosquitto_conf.md)
+- [C3 — Creación de usuarios](anexoC/C3_creacion_usuarios_contrasenas.md)
+- [C4 — ACL Mosquitto](anexoC/C4_acl_mosquitto.md)
+- [C5 — Estructura de tópicos](anexoC/C5_estructura_topicos.md)
+- [C6 — Reinicio de Mosquitto](anexoC/C6_reinicio_mosquitto.md)
+- [C7 — Resumen de la configuración](anexoC/C7_resumen_configuracion.md)
 
 ---
 
