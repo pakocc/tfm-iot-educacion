@@ -51,12 +51,16 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 
 ---
 
-## 📁 Anexo E — Flujos Node‑RED
-- [E0 — Introducción](AnexoE/E0_introduccion.md)
-- [E1 — Dashboard](AnexoE/E1_dashboard.md)
-- [E2 — Flujos de sensores](AnexoE/E2_sensores.md)
-- [E3 — Flujos de actuadores](AnexoE/E3_actuadores.md)
-- [E4 — Alertas](AnexoE/E4_alertas.md)
+## 📁 Anexo E — Integración de dispositivos IoT
+- [E0 — Introducción](anexoE/E0_introduccion.md)
+- [E1 — Placas utilizadas](anexoE/E1_placas_utilizadas.md)
+- [E2 — Bibliotecas utilizadas](anexoE/E2_bibliotecas_utilizadas.md)
+- [E3 — Esquema de conexión sensor DHT11](anexoE/E3_esquema_conexion_DHT11.md)
+- [E4 — Esquema de conexión de un módulo LED](anexoE/E4_esquema_conexion_LED.md)
+- [E5 — Firmware complete de la placa NodeMCU](anexoE/E5_firmware_completo_NodeMCU.md)
+- [E6 — Publicación de la suscripción MQTT](anexoE/E6_publicacion_suscripcion_MQTT.md)
+- [E7 — Validación de funcionamiento](anexoE/E7_validacion_funcionamiento.md)
+- [E8 — Resumen de la integración](anexoE/E8_resumen_integracion.md)
 
 ---
 
