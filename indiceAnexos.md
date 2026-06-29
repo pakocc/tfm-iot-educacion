@@ -23,7 +23,7 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 - [B3 — Docker compose](anexoB/B3_docker_compose.md)
 - [B4 — Creación del despliegue de contenedores](anexoB/B4_creacion_despliegue_contenedores.md)
 - [B5 — Red Docker iotnet](anexoB/B5_red_docker_iotnet.md)
-- [B6 — Resumen del despliegue](anexoB/BB6_resumen_despliegue.md)
+- [B6 — Resumen del despliegue](anexoB/B6_resumen_despliegue.md)
 
 ---
 
