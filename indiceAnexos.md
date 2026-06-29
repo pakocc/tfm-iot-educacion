@@ -17,11 +17,13 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 ---
 
 ## 📁 Anexo B — Arquitectura del sistema
-- [B0 — Introducción](AnexoB/B0_introduccion.md)
-- [B1 — Estructura general del sistema](AnexoB/B1_estructura_general_sistema.md)
-- [B2 — Estructura de directorios](AnexoB/B2_estructura_directorios.md)
-- [B3 — Tópicos MQTT](AnexoB/B3_topicos_mqtt.md)
-- [B4 — Puertos y servicios](AnexoB/B4_puertos_servicios.md)
+- [B0 — Introducción](anexoB/B0_introduccion.md)
+- [B1 — Estructura general del sistema](anexoB/B1_estructura_general_sistema.md)
+- [B2 — Estructura de directorios](anexoB/B2_estructura_directorios.md)
+- [B3 — Docker compose](anexoB/B3_docker_compose.md)
+- [B4 — Creación del despliegue de contenedores](anexoB/B4_creacion_despliegue_contenedores.md)
+- [B5 — Red Docker iotnet](anexoB/B5_red_docker_iotnet.md)
+- [B6 — Resumen del despliegue](anexoB/BB6_resumen_despliegue.md)
 
 ---
 
