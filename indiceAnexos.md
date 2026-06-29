@@ -12,7 +12,7 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 - [A4 — Instalación de Portainer](anexoA/A4_instalacion_portainer.md)
 - [A5 — Acceso remoto SSH](anexoA/A5_acceso_remoto_ssh.md)
 - [A6 — Resumen del entorno base](anexoA/A6_resumen_entorno_base.md)
-- [Archivo dhcpcd.conf] (anexoA/dhcpcd.conf)
+- [Archivo dhcpcd.conf](anexoA/dhcpcd.conf)
 
 ---
 
