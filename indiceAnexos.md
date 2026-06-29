@@ -5,7 +5,7 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 ---
 
 ## 📁 Anexo A — Preparación del entorno base
-- [A0 — Introducción](AnexoA/A0_introduccion.md)
+- [A0 — Introducción](A0_introduccion.md)
 - [A1 — Preparación del sistema operativo](AnexoA/A1_preparacion_sistema_operativo.md)
 - [A2 — Configuración de red](AnexoA/A2_configuracion_red.md)
 - [A3 — Instalación de Docker](AnexoA/A3_instalacion_docker.md)
