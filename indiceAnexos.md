@@ -76,6 +76,19 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 - [F8 — Resumen de la arquitectura de red](anexoF/F8_resumen_arquitectura_red.md)
 
 ---
+
+## 📁 Anexo G — Implementación del sistema domótico con NodeMCU, MQTT y Node‑RED
+- [G0 — Introducción](anexoG/G0_introduccion.md)
+- [G1 — Arquitectura general del sistema](anexoG/G1_arquitectura_general_sistema.md)
+- [G2 — Sensores y actuadores](anexoG/G2_sensores_actuadores.md)
+- [G3 — Código completo de la placa NodeMCU](anexoG/G3_codigo_completo_nodemcu.md)
+- [G4 — Flows de Node-RED](anexoG/G4_flows_nodered.md)
+- [G5 — Sistemas de alertas](anexoG/G5_sistema_alertas.md)
+- [G6 — Pruebas de validación](anexoG/G6_pruebas_validacion.md)
+- [G7 — Conclusiones](anexoG/G7_conclusiones.md)
+
+---
+
 ## 📁 Material complementario
 - [Imágenes y capturas](material/imagenes/)
 - [Diagramas](material/diagramas/)
