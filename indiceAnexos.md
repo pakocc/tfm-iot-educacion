@@ -64,6 +64,18 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 
 ---
 
+## 📁 Anexo F — Arquitectura de red y accesos
+- [F0 — Introducción](anexoF/F0_introduccion.md)
+- [F1 — Arquitectura genera de la red](anexoF/F1_arquitectura_general_red.md)
+- [F2 — Conectividad ethernet](anexoF/F2_conectividad_ethernet.md)
+- [F3 — Conectividad WIFI](anexoF/F3_conectividad_wifi.md)
+- [F4 — Acceso remoto mediante tailscale](anexoF/F4_acceso_remoto_tailscale.md)
+- [F5 — Tabla de accesos a los servicios](anexoF/F5_tabla_accesos_servicios.md)
+- [F6 — Diagrama conceptual de la arquitectura de red](anexoF/F6_diagrama_conceptual_arquitectura_red.md)
+- [F7 — Habilitación de acceso a internet mediante el punto de acceso TFM-IoT-AP](anexoF/F7_habilitacion_acceso_internet_TFM-IoT-AP.md)
+- [F8 — Resumen de la arquitectura de red](anexoF/F8_resumen_arquitectura_red.md)
+
+---
 ## 📁 Material complementario
 - [Imágenes y capturas](material/imagenes/)
 - [Diagramas](material/diagramas/)
