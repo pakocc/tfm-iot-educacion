@@ -5,14 +5,13 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 ---
 
 ## 📁 Anexo A — Preparación del entorno base
-Este anexo describe el proceso de preparación de la tarjeta Raspberry Pi, incluyendo la instalaci´on del sistema operativo, la configuración de red y la puesta en marcha de Docker. Se detallan los comandos utilizados, las decisiones de diseño adoptadas y las consideraciones necesarias para garantizar un entorno estable y reproducible.
 - [A0 — Introducción](anexoA/A0_introduccion.md)
-- [A1 — Preparación del sistema operativo](AnexoA/A1_preparacion_sistema_operativo.md)
-- [A2 — Configuración de red](AnexoA/A2_configuracion_red.md)
-- [A3 — Instalación de Docker](AnexoA/A3_instalacion_docker.md)
-- [A4 — Instalación de Portainer](AnexoA/A4_instalacion_portainer.md)
-- [A5 — Acceso remoto SSH](AnexoA/A5_acceso_remoto_ssh.md)
-- [A6 — Resumen del entorno base](AnexoA/A6_resumen_entorno_base.md)
+- [A1 — Preparación del sistema operativo](anexoA/A1_preparacion_sistema_operativo.md)
+- [A2 — Configuración de red](anexoA/A2_configuracion_red.md)
+- [A3 — Instalación de Docker](anexoA/A3_instalacion_docker.md)
+- [A4 — Instalación de Portainer](anexoA/A4_instalacion_portainer.md)
+- [A5 — Acceso remoto SSH](AnexoA/a5_acceso_remoto_ssh.md)
+- [A6 — Resumen del entorno base](anexoA/A6_resumen_entorno_base.md)
 
 ---
 
