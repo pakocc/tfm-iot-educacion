@@ -39,12 +39,15 @@ Este repositorio contiene todos los anexos técnicos del Trabajo Fin de Máster,
 
 ---
 
-## 📁 Anexo D — Código del sistema IoT
-- [D0 — Introducción](AnexoD/D0_introduccion.md)
-- [D1 — Conexiones físicas](AnexoD/D1_conexiones.md)
-- [D2 — Archivo `settings.js`](AnexoD/D2_settings.md)
-- [D3 — Asignación de puertos](AnexoD/D3_puertos.md)
-- [D4 — Código completo del NodeMCU](AnexoD/D4_codigo_nodemcu.md)
+## 📁 Anexo D — Configuración de Node-RED
+- [D0 — Introducción](anexoD/D0_introduccion.md)
+- [D1 — Volúmenes persistentes](anexoD/D1_volumenes_persistentes.md)
+- [D2 — Archivo `settings.js`](anexoD/D2_settings_js.md)
+- [D3 — Asignación de puertos](anexoD/D3_asignacion_puertos.md)
+- [D4 — Configuración runtime](anexoD/D4_configuracion_runtime.md)
+- [D5 — Ejemplo de Flujo](anexoD/D5_ejemplo_flujo.md)
+- [D6 — Reinicio y mantenimiento](anexoD/D6_reinicio_mantenimiento.md)
+- [D7 — Resumen de la configuración](anexoD/D7_resumen_configuracion.md)
 
 ---
 
